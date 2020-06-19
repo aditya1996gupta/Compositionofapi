@@ -15,7 +15,7 @@
     <div class="list-group">
       <div
         class="list-group-item d-flex justify-content-between"
-        v-for="(item,index) in items"
+        v-for="(item, index) in items"
         :key="index"
       >
         <span>{{ item }}</span>
