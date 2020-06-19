@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h3>Composition OF API Demo</h3>
-    <div class="container">
+    <div class="container-fluid">
       <div class="comp">
         <todo-v3 title="Vue3 Composition API" initInput="qwert@mail.com"/>
       </div>
